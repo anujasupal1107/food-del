@@ -1,2 +1,2 @@
 # food-del
-food-del descripation
+Order the delicious and healthy dates fruits 
